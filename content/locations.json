@@ -1,0 +1,252 @@
+[
+	{
+		"name": "North of the Wall",
+		"sublocation": [
+			"The Lands of Always Winter",
+			"Cave Outside Wildling Camp",
+			"Wildling Camp",
+			"Frostfang Mountains",
+			"The Three-Eyed Raven",
+			"Outside the Three-Eyed Raven",
+			"Fist of the First Men",
+			"Wildlings March South",
+			"Nightswatch March South",
+			"Hardhome",
+			"Craster's Keep",
+			"The Haunted Forest",
+			"South to the Wall",
+			"Destroyed Cabin",
+			"Near Nightfort",
+			"The Wall"
+		]
+	},
+	{
+		"name": "The Wall",
+		"sublocation": [
+			"Nightfort",
+			"Eastwatch",
+			"Top of the Wall",
+			"Castle Black",
+			"Outside Castle Black",
+			"Mole's Town",
+			"The Gift"
+		]
+	},
+	{
+		"name": "The North",
+		"sublocation": [
+			"The Gift",
+			"Last Hearth",
+			"Bear Island",
+			"North to the Wall",
+			"Deepwood Motte",
+			"Stannis Baratheon's Camp",
+			"The Wolfswood",
+			"Outside Winterfell",
+			"Winterfell",
+			"Winter Town",
+			"The Dreadfort",
+			"The Kingsroad South to King's Landing",
+			"Moat Cailin",
+			"The Neck"
+		]
+	},
+	{
+		"name": "The Shivering Sea",
+		"sublocation": [
+			""
+		]
+	},
+	{
+		"name": "The Vale",
+		"sublocation": [
+			"Runestone",
+			"The Eyrie",
+			"To The Eyrie",
+			"Eastern Road",
+			"To the Westerlands",
+			"Outside the Inn",
+			"Inn",
+			"To The Vale",
+			"Coast of the Vale"
+		]
+	},
+	{
+		"name": "The Iron Islands",
+		"sublocation": [
+			"",
+			"Pyke",
+			"Lordsport"
+		]
+	},
+	{
+		"name": "The Sunset Sea",
+		"sublocation": [
+			""
+		]
+	},
+	{
+		"name": "The Westerlands",
+		"sublocation": [
+			"Casterly Rock",
+			"Outside Casterly Rock",
+			"Oxcross",
+			"Lannister Camp",
+			"Camp of the North",
+			"To King's Landing"
+		]
+	},
+	{
+		"name": "The Riverlands",
+		"sublocation": [
+			"The Twins",
+			"Away from the Twins",
+			"To The Twins",
+			"To The Eyrie",
+			"Lannister Camp",
+			"Battlefield",
+			"Camp of the North",
+			"Village",
+			"The Kingsroad",
+			"Forest",
+			"Crossroads Inn",
+			"Hollow Hill",
+			"East to King's Landing",
+			"Riverrun",
+			"Red Fork",
+			"To Riverrun",
+			"North to the Red Fork",
+			"To Harrenhal",
+			"Harrenhal",
+			"Outside Harrenhal",
+			"South to King's Landing"
+		]
+	},
+	{
+		"name": "The Narrow Sea",
+		"sublocation": [
+			""
+		]
+	},
+	{
+		"name": "The Crownlands",
+		"sublocation": [
+			"Dragonstone",
+			"Castle Stokeworth",
+			"Blackwater Bay",
+			"King's Landing",
+			"Outside King's Landing",
+			"The Kingswood",
+			"Blackwater Rush"
+		]
+	},
+	{
+		"name": "The Stormlands",
+		"sublocation": [
+			"Tarth",
+			"The Woods",
+			"Storm's End"
+		]
+	},
+	{
+		"name": "The Reach",
+		"sublocation": [
+			"Highgarden",
+			"To Horn Hill",
+			"Horn Hill",
+			"Oldtown"
+		]
+	},
+	{
+		"name": "Dorne",
+		"sublocation": [
+			"Tower of Joy",
+			"",
+			"The Water Gardens"
+		]
+	},
+	{
+		"name": "Pentos",
+		"sublocation": [
+			"",
+			"Pentos to Volantis"
+		]
+	},
+	{
+		"name": "Braavos",
+		"sublocation": [
+			""
+		]
+	},
+	{
+		"name": "The Summer Sea",
+		"sublocation": [
+			""
+		]
+	},
+	{
+		"name": "Volantis",
+		"sublocation": [
+			"",
+			"Volantis to Valyria"
+		]
+	},
+	{
+		"name": "Valyria",
+		"sublocation": [
+			"",
+			"Slaver's Bay"
+		]
+	},
+	{
+		"name": "The Dothraki Sea",
+		"sublocation": [
+			"",
+			"Dothraki Camp",
+			"Lhazareen Village"
+		]
+	},
+	{
+		"name": "Meereen",
+		"sublocation": [
+			"Outside Meereen",
+			""
+		]
+	},
+	{
+		"name": "Yunkai",
+		"sublocation": [
+			"",
+			"Outside Yunkai"
+		]
+	},
+	{
+		"name": "Astapor",
+		"sublocation": [
+			"Slaver's Bay",
+			""
+		]
+	},
+	{
+		"name": "Vaes Dothrak",
+		"sublocation": [
+			""
+		]
+	},
+	{
+		"name": "The Red Waste",
+		"sublocation": [
+			"",
+			"The Desert"
+		]
+	},
+	{
+		"name": "Qarth",
+		"sublocation": [
+			"",
+			"King's Landing",
+			"The Wall",
+			"Vaes Dothrak"
+		]
+	}
+]
