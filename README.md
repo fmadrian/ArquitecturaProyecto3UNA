@@ -24,4 +24,6 @@ El enlace al proyecto es: [https://una-eif511-proyecto1-peliculasanimada.netlify
 
 [Game of Thrones - character-deaths.csv](https://www.kaggle.com/datasets/mylesoneill/game-of-thrones?select=character-deaths.csv)
 
-[Game of Thrones - locations.csv](https://www.kaggle.com/datasets/mathurinache/game-of-thrones-data?select=locations.json)
+[Game of Thrones - locations.json](https://www.kaggle.com/datasets/mathurinache/game-of-thrones-data?select=locations.json)
+
+[Game of Thrones - character-groups.json](https://www.kaggle.com/datasets/mathurinache/game-of-thrones-data?select=characters-groups.json)
