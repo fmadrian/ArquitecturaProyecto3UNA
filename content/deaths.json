@@ -15,7 +15,7 @@
     "DwD": 0
   },
   {
-    "name": "Aegon Frey (Jinglebell)",
+    "name": "Aegon Frey",
     "allegiances": "None",
     "death_year": 299,
     "book_of_death": 3,
@@ -90,7 +90,7 @@
     "DwD": 0
   },
   {
-    "name": "Aemon Targaryen (son of Maekar I)",
+    "name": "Aemon Targaryen",
     "allegiances": "Night's Watch",
     "death_year": 300,
     "book_of_death": 4,
@@ -750,7 +750,7 @@
     "DwD": 0
   },
   {
-    "name": "Arryk (Guard)",
+    "name": "Arryk",
     "allegiances": "House Tyrell",
     "death_year": null,
     "book_of_death": null,
@@ -1020,7 +1020,7 @@
     "DwD": 1
   },
   {
-    "name": "Barth (brewer)",
+    "name": "Barth",
     "allegiances": "House Stark",
     "death_year": null,
     "book_of_death": null,
@@ -1155,7 +1155,7 @@
     "DwD": 0
   },
   {
-    "name": "Bellegere Otherys (courtesan)",
+    "name": "Bellegere Otherys",
     "allegiances": "None",
     "death_year": null,
     "book_of_death": null,
@@ -1335,7 +1335,7 @@
     "DwD": 0
   },
   {
-    "name": "Bessa (Winterfell)",
+    "name": "Bessa",
     "allegiances": "Stark",
     "death_year": null,
     "book_of_death": null,
@@ -2520,7 +2520,7 @@
     "DwD": 0
   },
   {
-    "name": "Dalla (Dragonstone)",
+    "name": "Dalla",
     "allegiances": "Baratheon",
     "death_year": null,
     "book_of_death": null,
@@ -3660,7 +3660,7 @@
     "DwD": 0
   },
   {
-    "name": "Erryk (Guard)",
+    "name": "Erryk",
     "allegiances": "House Tyrell",
     "death_year": null,
     "book_of_death": null,
@@ -3945,7 +3945,7 @@
     "DwD": 0
   },
   {
-    "name": "Garin (Orphan)",
+    "name": "Garin",
     "allegiances": "Martell",
     "death_year": null,
     "book_of_death": null,
@@ -4935,7 +4935,7 @@
     "DwD": 0
   },
   {
-    "name": "Hareth (Mole's Town)",
+    "name": "Hareth",
     "allegiances": "Night's Watch",
     "death_year": null,
     "book_of_death": null,
@@ -5190,7 +5190,7 @@
     "DwD": 0
   },
   {
-    "name": "Henly (Maester)",
+    "name": "Henly",
     "allegiances": "None",
     "death_year": null,
     "book_of_death": null,
@@ -6150,7 +6150,7 @@
     "DwD": 1
   },
   {
-    "name": "Jon Umber (Greatjon)",
+    "name": "Jon Umber",
     "allegiances": "Stark",
     "death_year": null,
     "book_of_death": null,
@@ -6180,7 +6180,7 @@
     "DwD": 0
   },
   {
-    "name": "Jon Umber (Smalljon)",
+    "name": "Jon Umber",
     "allegiances": "Stark",
     "death_year": 299,
     "book_of_death": 3,
@@ -6690,7 +6690,7 @@
     "DwD": 0
   },
   {
-    "name": "Kyle (Banners)",
+    "name": "Kyle",
     "allegiances": "None",
     "death_year": 299,
     "book_of_death": 3,
@@ -6780,7 +6780,7 @@
     "DwD": 1
   },
   {
-    "name": "Lanna (Happy Port)",
+    "name": "Lanna",
     "allegiances": "None",
     "death_year": null,
     "book_of_death": null,
@@ -8565,7 +8565,7 @@
     "DwD": 0
   },
   {
-    "name": "Mudge (miller)",
+    "name": "Mudge",
     "allegiances": "None",
     "death_year": 299,
     "book_of_death": 3,
@@ -8625,7 +8625,7 @@
     "DwD": 0
   },
   {
-    "name": "Murch (Winterfell)",
+    "name": "Murch",
     "allegiances": "House Stark",
     "death_year": null,
     "book_of_death": null,
@@ -10695,7 +10695,7 @@
     "DwD": 1
   },
   {
-    "name": "Roland Crakehall (Lord)",
+    "name": "Roland Crakehall",
     "allegiances": "Lannister",
     "death_year": null,
     "book_of_death": null,
@@ -12915,7 +12915,7 @@
     "DwD": 1
   },
   {
-    "name": "Walda Rivers (daughter of Aemon)",
+    "name": "Walda Rivers",
     "allegiances": "None",
     "death_year": null,
     "book_of_death": null,
@@ -13065,7 +13065,7 @@
     "DwD": 0
   },
   {
-    "name": "Wayn (guard)",
+    "name": "Wayn",
     "allegiances": "House Stark",
     "death_year": null,
     "book_of_death": null,
@@ -13395,7 +13395,7 @@
     "DwD": 1
   },
   {
-    "name": "Wyl (guard)",
+    "name": "Wyl",
     "allegiances": "House Stark",
     "death_year": 298,
     "book_of_death": 1,

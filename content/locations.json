@@ -1,7 +1,7 @@
 [
 	{
 		"name": "North of the Wall",
-		"sublocation": [
+		"sublocations": [
 			"The Lands of Always Winter",
 			"Cave Outside Wildling Camp",
 			"Wildling Camp",
@@ -21,8 +21,8 @@
 		]
 	},
 	{
-		"name": "The Wall",
-		"sublocation": [
+		"name": "Wall",
+		"sublocations": [
 			"Nightfort",
 			"Eastwatch",
 			"Top of the Wall",
@@ -33,8 +33,8 @@
 		]
 	},
 	{
-		"name": "The North",
-		"sublocation": [
+		"name": "North",
+		"sublocations": [
 			"The Gift",
 			"Last Hearth",
 			"Bear Island",
@@ -52,14 +52,12 @@
 		]
 	},
 	{
-		"name": "The Shivering Sea",
-		"sublocation": [
-			""
-		]
+		"name": "Shivering Sea",
+		"sublocations": []
 	},
 	{
-		"name": "The Vale",
-		"sublocation": [
+		"name": "Vale",
+		"sublocations": [
 			"Runestone",
 			"The Eyrie",
 			"To The Eyrie",
@@ -72,22 +70,19 @@
 		]
 	},
 	{
-		"name": "The Iron Islands",
-		"sublocation": [
-			"",
+		"name": "Iron Islands",
+		"sublocations": [
 			"Pyke",
 			"Lordsport"
 		]
 	},
 	{
-		"name": "The Sunset Sea",
-		"sublocation": [
-			""
-		]
+		"name": "Sunset Sea",
+		"sublocations": []
 	},
 	{
-		"name": "The Westerlands",
-		"sublocation": [
+		"name": "Westerlands",
+		"sublocations": [
 			"Casterly Rock",
 			"Outside Casterly Rock",
 			"Oxcross",
@@ -97,8 +92,8 @@
 		]
 	},
 	{
-		"name": "The Riverlands",
-		"sublocation": [
+		"name": "Riverlands",
+		"sublocations": [
 			"The Twins",
 			"Away from the Twins",
 			"To The Twins",
@@ -123,14 +118,12 @@
 		]
 	},
 	{
-		"name": "The Narrow Sea",
-		"sublocation": [
-			""
-		]
+		"name": "Narrow Sea",
+		"sublocations": []
 	},
 	{
-		"name": "The Crownlands",
-		"sublocation": [
+		"name": "Crownlands",
+		"sublocations": [
 			"Dragonstone",
 			"Castle Stokeworth",
 			"Blackwater Bay",
@@ -141,16 +134,16 @@
 		]
 	},
 	{
-		"name": "The Stormlands",
-		"sublocation": [
+		"name": "Stormlands",
+		"sublocations": [
 			"Tarth",
 			"The Woods",
 			"Storm's End"
 		]
 	},
 	{
-		"name": "The Reach",
-		"sublocation": [
+		"name": "Reach",
+		"sublocations": [
 			"Highgarden",
 			"To Horn Hill",
 			"Horn Hill",
@@ -159,91 +152,75 @@
 	},
 	{
 		"name": "Dorne",
-		"sublocation": [
+		"sublocations": [
 			"Tower of Joy",
-			"",
 			"The Water Gardens"
 		]
 	},
 	{
 		"name": "Pentos",
-		"sublocation": [
-			"",
+		"sublocations": [
 			"Pentos to Volantis"
 		]
 	},
 	{
 		"name": "Braavos",
-		"sublocation": [
-			""
-		]
+		"sublocations": []
 	},
 	{
-		"name": "The Summer Sea",
-		"sublocation": [
-			""
-		]
+		"name": "Summer Sea",
+		"sublocations": []
 	},
 	{
 		"name": "Volantis",
-		"sublocation": [
-			"",
+		"sublocations": [
 			"Volantis to Valyria"
 		]
 	},
 	{
 		"name": "Valyria",
-		"sublocation": [
-			"",
+		"sublocations": [
 			"Slaver's Bay"
 		]
 	},
 	{
-		"name": "The Dothraki Sea",
-		"sublocation": [
-			"",
+		"name": "Dothraki Sea",
+		"sublocations": [
 			"Dothraki Camp",
 			"Lhazareen Village"
 		]
 	},
 	{
 		"name": "Meereen",
-		"sublocation": [
-			"Outside Meereen",
-			""
+		"sublocations": [
+			"Outside Meereen"
 		]
 	},
 	{
 		"name": "Yunkai",
-		"sublocation": [
-			"",
+		"sublocations": [
 			"Outside Yunkai"
 		]
 	},
 	{
 		"name": "Astapor",
-		"sublocation": [
-			"Slaver's Bay",
-			""
+		"sublocations": [
+			"Slaver's Bay"
 		]
 	},
 	{
 		"name": "Vaes Dothrak",
-		"sublocation": [
-			""
-		]
+		"sublocations": []
 	},
 	{
-		"name": "The Red Waste",
-		"sublocation": [
-			"",
+		"name": "Red Waste",
+		"sublocations": [
 			"The Desert"
 		]
 	},
 	{
 		"name": "Qarth",
-		"sublocation": [
-			"",
+		"sublocations": [
 			"King's Landing",
 			"The Wall",
 			"Vaes Dothrak"

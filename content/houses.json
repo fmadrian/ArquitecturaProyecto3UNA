@@ -1,1886 +1,260 @@
 [
     {
-        "name": "Algood",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Allyrion of Godsgrace",
-        "region": "Dorne"
-    },
-    {
-        "name": "Amber",
-        "region": "North"
-    },
-    {
-        "name": "Ambrose",
-        "region": "Reach"
-    },
-    {
-        "name": "Andrik of Southshield",
-        "region": "Iron Islands (Shield Islands)"
-    },
-    {
-        "name": "Appleton of Appleton",
-        "region": "Reach"
-    },
-    {
-        "name": "Arryn of Gulltown",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Arryn of the Eyrie",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Ashford of Ashford",
-        "region": "Reach"
-    },
-    {
-        "name": "Ashwood",
-        "region": "North"
-    },
-    {
-        "name": "Baelish of Harrenhal",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Baelish of the Fingers",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Ball",
-        "region": "Reach"
-    },
-    {
-        "name": "Banefort of Banefort",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Bar Emmon of Sharp Point",
-        "region": "Crownlands (Dragonstone)"
-    },
-    {
-        "name": "Baratheon of Dragonstone",
-        "region": "Crownlands (Dragonstone)"
-    },
-    {
-        "name": "Baratheon of King's Landing",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Baratheon of Storm's End",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Beesbury of Honeyholt",
-        "region": "Reach"
-    },
-    {
-        "name": "Belgrave",
-        "region": "Unknown"
-    },
-    {
-        "name": "Belmore of Strongsong",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Bettley",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Bigglestone",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Blackbar of Bandallon",
-        "region": "Reach"
-    },
-    {
-        "name": "Blackberry",
-        "region": "Unknown"
-    },
-    {
-        "name": "Blackfyre",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Blackmont of Blackmont",
-        "region": "Dorne"
-    },
-    {
-        "name": "Blackmyre",
-        "region": "North (Crannogmen)"
-    },
-    {
-        "name": "Blacktyde of Blacktyde",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Blackwood of Raventree Hall",
-        "region": "Riverlands; North (formerly)"
-    },
-    {
-        "name": "Blanetree",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Blount",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Boggs",
-        "region": "Crownlands (Crackclaw Point)"
-    },
-    {
-        "name": "Boggs",
-        "region": "North (Crannogmen)"
-    },
-    {
-        "name": "Bole",
-        "region": "North (Wolfswood Clans)"
-    },
-    {
-        "name": "Bolling",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Bolton of the Dreadfort",
-        "region": "North"
-    },
-    {
-        "name": "Bolton of Winterfell",
-        "region": "North"
-    },
-    {
-        "name": "Borrell of Sweetsister",
-        "region": "Vale of Arryn (Sistermen)"
-    },
-    {
-        "name": "Botley of Lordsport",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Bracken of Stone Hedge",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Branch",
-        "region": "North (Wolfswood Clans)"
-    },
-    {
-        "name": "Brax of Hornvale",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Breakstone",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Briar",
-        "region": "Dorne"
-    },
-    {
-        "name": "Bridges",
-        "region": "Reach"
-    },
-    {
-        "name": "Brightstone",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Brook",
-        "region": "Dorne"
-    },
-    {
-        "name": "Broom",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Brownhill",
-        "region": "Dorne"
-    },
-    {
-        "name": "Brune of Brownhollow",
-        "region": "Crownlands (Crackclaw Point)"
-    },
-    {
-        "name": "Brune of the Dyre Den",
-        "region": "Crownlands (Crackclaw Point)"
-    },
-    {
-        "name": "Buckler of Bronzegate",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Buckwell of the Antlers",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Bulwer of Blackcrown",
-        "region": "Reach"
-    },
-    {
-        "name": "Burley",
-        "region": "North (Mountain Clans)"
-    },
-    {
-        "name": "Bushy",
-        "region": "Reach"
-    },
-    {
-        "name": "Butterwell of Whitewalls",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Byrch",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Bywater",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Cafferen of Fawnton",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Cargyll",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Caron of Nightsong",
-        "region": "Stormlands (Marcher Lords)"
-    },
-    {
-        "name": "Cassel",
-        "region": "North"
-    },
-    {
-        "name": "Casterly of Casterly Rock",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Caswell of Bitterbridge",
-        "region": "Reach"
-    },
-    {
-        "name": "Cave",
-        "region": "Crownlands (Crackclaw Point)"
-    },
-    {
-        "name": "Celtigar of Claw Isle",
-        "region": "Crownlands (Dragonstone)"
-    },
-    {
-        "name": "Cerwyn of Castle Cerwyn",
-        "region": "North"
-    },
-    {
-        "name": "Chambers",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Charlton",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Chelsted",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Chester of Greenshield",
-        "region": "Reach (Shield Islands)"
-    },
-    {
-        "name": "Chyttering",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Clegane of Clegane's Keep",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Clifton",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Cobb",
-        "region": "Reach"
-    },
-    {
-        "name": "Cockshaw",
-        "region": "Reach"
-    },
-    {
-        "name": "Codd",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Coldwater of Coldwater Burn",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Cole",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Condon",
-        "region": "North"
-    },
-    {
-        "name": "Conklyn",
-        "region": "Reach"
-    },
-    {
-        "name": "Connington of Griffin's Roost",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Corbray of Heart's Home",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Cordwayner of Hammerhal",
-        "region": "Reach"
-    },
-    {
-        "name": "Costayne of the Three Towers",
-        "region": "Reach"
-    },
-    {
-        "name": "Cox of Saltpans",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Crabb of the Whispers",
-        "region": "Crownlands (Crackclaw Point)"
-    },
-    {
-        "name": "Crakehall of Crakehall",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Crane of Red Lake",
-        "region": "Reach"
-    },
-    {
-        "name": "Cray",
-        "region": "North (Crannogmen)"
-    },
-    {
-        "name": "Cressey",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Crowl of Deepdown",
-        "region": "North (Skagosi Clans)"
-    },
-    {
-        "name": "Cupps",
-        "region": "Unknown"
-    },
-    {
-        "name": "Cuy of Sunhouse",
-        "region": "Reach"
-    },
-    {
-        "name": "Dalt of Lemonwood",
-        "region": "Dorne"
-    },
-    {
-        "name": "Dargood",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Darke",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Darklyn of Duskendale",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Darkwood",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Darry of Darry",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Dayne of High Hermitage",
-        "region": "Dorne"
-    },
-    {
-        "name": "Dayne of Starfall",
-        "region": "Dorne"
-    },
-    {
-        "name": "Deddings",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Doggett",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Dondarrion of Blackhaven",
-        "region": "Stormlands (Marcher Lords)"
-    },
-    {
-        "name": "Donniger",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Drinkwater",
-        "region": "Dorne"
-    },
-    {
-        "name": "Drox",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Drumm of Old Wyk",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Dryland of Hellgate Hall",
-        "region": "Dorne"
-    },
-    {
-        "name": "Dunn",
-        "region": "Reach"
-    },
-    {
-        "name": "Durrandon",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Durwell",
-        "region": "Reach"
-    },
-    {
-        "name": "Dustin of Barrowton",
-        "region": "North"
-    },
-    {
-        "name": "Edgerton",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Egen",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Elesham of the Paps",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Erenford",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Errol of Haystack Hall",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Estermont of Greenstone",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Estren of Wyndhall",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Falwell",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Farman of Faircastle",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Farring",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Farrow",
-        "region": "Unknown"
-    },
-    {
-        "name": "Farwynd of Sealskin Point",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Farwynd of the Lonely Light",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Fell of Felwood",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Fenn",
-        "region": "North (Crannogmen)"
-    },
-    {
-        "name": "Ferren",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Fisher of the Misty Isle",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Fisher of the Stony Shore",
-        "region": "North"
-    },
-    {
-        "name": "Flint of Breakstone Hill",
-        "region": "North"
-    },
-    {
-        "name": "Flint of Flint's Finger",
-        "region": "North"
-    },
-    {
-        "name": "Flint of the mountains",
-        "region": "North (Mountain Clans)"
-    },
-    {
-        "name": "Flint of Widow's Watch",
-        "region": "North"
-    },
-    {
-        "name": "Florent of Brightwater Keep",
-        "region": "Reach"
-    },
-    {
-        "name": "Follard",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Foote",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Foote of Nightsong",
-        "region": "Stormlands (Marcher Lords)"
-    },
-    {
-        "name": "Footly of Tumbleton",
-        "region": "Reach"
-    },
-    {
-        "name": "Forrester",
-        "region": "North (Wolfswood Clans)"
-    },
-    {
-        "name": "Fossoway of Cider Hall",
-        "region": "Reach"
-    },
-    {
-        "name": "Fossoway of New Barrel",
-        "region": "Reach"
-    },
-    {
-        "name": "Fowler of Skyreach",
-        "region": "Dorne"
-    },
-    {
-        "name": "Frey of Riverrun",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Frey of the Crossing",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Frost",
-        "region": "North"
-    },
-    {
-        "name": "Gardener of Highgarden",
-        "region": "Reach"
-    },
-    {
-        "name": "Gargalen of Salt Shore",
-        "region": "Dorne"
-    },
-    {
-        "name": "Garner",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Gaunt",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Glover of Deepwood Motte",
-        "region": "North"
-    },
-    {
-        "name": "Goodbrook",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Goodbrother of Corpse Lake",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Goodbrother of Crow Spike Keep",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Goodbrother of Downdelving",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Goodbrother of Orkmont",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Goodbrother of Shatterstone",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Goodbrother of Hammerhorn",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Goode",
-        "region": "Unknown"
-    },
-    {
-        "name": "Gower",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Graceford of Holyhall",
-        "region": "Reach"
-    },
-    {
-        "name": "Grafton of Gulltown",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Grandison of Grandview",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Graves",
-        "region": "Reach"
-    },
-    {
-        "name": "Greenfield of Greenfield",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Greengood",
-        "region": "North (Crannogmen)"
-    },
-    {
-        "name": "Greenhill",
-        "region": "Unknown"
-    },
-    {
-        "name": "Greenwood",
-        "region": "North"
-    },
-    {
-        "name": "Grell",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Grey",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Greyiron of Orkmont",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Greyjoy of Pyke",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Greystark of the Wolf's Den",
-        "region": "North"
-    },
-    {
-        "name": "Grimm of Greyshield",
-        "region": "Reach (Shield Islands)"
-    },
-    {
-        "name": "Groves",
-        "region": "Unknown"
-    },
-    {
-        "name": "Haigh",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Hamell",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Harclay",
-        "region": "North (Mountain Clans)"
-    },
-    {
-        "name": "Hardy",
-        "region": "Crownlands (Crackclaw Point)"
-    },
-    {
-        "name": "Hardyng",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Harlaw of Grey Garden",
-        "region": "Iron Islands (Shield Islands)"
-    },
-    {
-        "name": "Harlaw of Harlaw Hall",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Harlaw of Harridan Hill",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Harlaw of Harlaw",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Harlaw of the Tower of Glimmering",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Harroway of Harrenhal",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Harte",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Hastwyck",
-        "region": "Reach"
-    },
-    {
-        "name": "Hasty",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Hawick of Saltpans",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Hawthorne",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Hayford of Hayford",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Heddle",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Herston",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Hersy of Newkeep",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Hetherspoon",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Hewett of Oakenshield",
-        "region": "Reach (Shield Islands)"
-    },
-    {
-        "name": "Hightower of the Hightower",
-        "region": "Reach"
-    },
-    {
-        "name": "Hoare of Orkmont",
-        "region": "Iron Islands (origin); Riverlands"
-    },
-    {
-        "name": "Hogg of Sow's Horn",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Hollard",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Holt",
-        "region": "North"
-    },
-    {
-        "name": "Holt",
-        "region": "Dorne"
-    },
-    {
-        "name": "Hook",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Hornwood of Hornwood",
-        "region": "North"
-    },
-    {
-        "name": "Horpe",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Hull",
-        "region": "Dorne"
-    },
-    {
-        "name": "Humble",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Hunt",
-        "region": "Reach"
-    },
-    {
-        "name": "Hunter of Longbow Hall",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Hutcheson",
-        "region": "Reach"
-    },
-    {
-        "name": "Inchfield",
-        "region": "Reach"
-    },
-    {
-        "name": "Ironmaker",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Ironsmith",
-        "region": "North"
-    },
-    {
-        "name": "Jast",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Jordayne of the Tor",
-        "region": "Dorne"
-    },
-    {
-        "name": "Justman",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Karstark of Karhold",
-        "region": "North"
-    },
-    {
-        "name": "Keath",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Kellington",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Kenning of Harlaw",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Kenning of Kayce",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Kettleblack",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Kidwell of Ivy Hall",
-        "region": "Reach"
-    },
-    {
-        "name": "Knott",
-        "region": "North (Mountain Clans)"
-    },
-    {
-        "name": "Kyndall",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Ladybright",
-        "region": "Dorne"
-    },
-    {
-        "name": "Lake",
-        "region": "Dorne"
-    },
-    {
-        "name": "Lake",
-        "region": "North"
-    },
-    {
-        "name": "Langward",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Lannett",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Lannister of Casterly Rock",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Lannister of Darry",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Lannister of Lannisport",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Lanny",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Lantell",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Leek",
-        "region": "Unknown"
-    },
-    {
-        "name": "Lefford of the Golden Tooth",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Leygood",
-        "region": "Reach"
-    },
-    {
-        "name": "Liddle",
-        "region": "North (Mountain Clans)"
-    },
-    {
-        "name": "Lightfoot",
-        "region": "North"
-    },
-    {
-        "name": "Lipps",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Locke of Oldcastle",
-        "region": "North"
-    },
-    {
-        "name": "Lolliston",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Long",
-        "region": "North"
-    },
-    {
-        "name": "Longthorpe of Longsister",
-        "region": "Vale of Arryn (Sistermen)"
-    },
-    {
-        "name": "Longwaters",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Lonmouth",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Lorch",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Lothston of Harrenhal",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Lowther",
-        "region": "Reach"
-    },
-    {
-        "name": "Lyberr",
-        "region": "Reach"
-    },
-    {
-        "name": "Lychester",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Lydden of Deep Den",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Lynderly of Snakewood",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Magnar of Kingshouse",
-        "region": "North (Skagosi Clans)"
-    },
-    {
-        "name": "Mallery",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Mallister of Seagard",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Manderly of White Harbor",
-        "region": "North; Reach (formerly)"
-    },
-    {
-        "name": "Mandrake",
-        "region": "Unknown"
-    },
-    {
-        "name": "Manning",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Manwoody of Kingsgrave",
-        "region": "Dorne"
-    },
-    {
-        "name": "Marbrand of Ashemark",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Marsh",
-        "region": "North"
-    },
-    {
-        "name": "Martell of Sunspear",
-        "region": "Dorne"
-    },
-    {
-        "name": "Massey of Stonedance",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Meadows of Grassy Vale",
-        "region": "Reach"
-    },
-    {
-        "name": "Melcolm of Old Anchor",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Merlyn of Pebbleton",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Merryweather of Longtable",
-        "region": "Reach"
-    },
-    {
-        "name": "Mertyns of Mistwood",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Middlebury",
-        "region": "Reach"
-    },
-    {
-        "name": "Mollen",
-        "region": "North"
-    },
-    {
-        "name": "Moore",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Mooton of Maidenpool",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Moreland",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Mormont of Bear Island",
-        "region": "North"
-    },
-    {
-        "name": "Morrigen of Crow's Nest",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Moss",
-        "region": "North"
-    },
-    {
-        "name": "Mudd of Oldstones",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Mullendore of Uplands",
-        "region": "Reach"
-    },
-    {
-        "name": "Musgood",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Myatt",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Myre of Harlaw",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Nayland of Hag's Mire",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Netley",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Norcross",
-        "region": "Reach"
-    },
-    {
-        "name": "Norrey",
-        "region": "North (Mountain Clans)"
-    },
-    {
-        "name": "Norridge",
-        "region": "Reach"
-    },
-    {
-        "name": "Nute of Oakenshield",
-        "region": "Iron Islands (Shield Islands)"
-    },
-    {
-        "name": "Nutt",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Oakheart of Old Oak",
-        "region": "Reach"
-    },
-    {
-        "name": "Oldflowers",
-        "region": "Reach"
-    },
-    {
-        "name": "Orkwood of Orkmont",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Orme",
-        "region": "Reach"
-    },
-    {
-        "name": "Osgrey of Leafy Lake",
-        "region": "Reach"
-    },
-    {
-        "name": "Osgrey of Standfast",
-        "region": "Reach"
-    },
-    {
-        "name": "Overton",
-        "region": "North"
-    },
-    {
-        "name": "Paege",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Parren",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Payne",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Peake of Starpike",
-        "region": "Reach"
-    },
-    {
-        "name": "Peasebury of Poddingfield",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Peat",
-        "region": "North (Crannogmen)"
-    },
-    {
-        "name": "Peckledon",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Pemford",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Penny",
-        "region": "Unknown"
-    },
-    {
-        "name": "Penrose of Parchments",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Perryn",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Piper of Pinkmaiden",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Plumm",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Pommingham",
-        "region": "Reach"
-    },
-    {
-        "name": "Poole",
-        "region": "North"
-    },
-    {
-        "name": "Potter",
-        "region": "Unknown"
-    },
-    {
-        "name": "Prester of Feastfires",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Pryor of Pebble",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Pyle",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Pyne",
-        "region": "Crownlands (Crackclaw Point)"
-    },
-    {
-        "name": "Qoherys of Harrenhal",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Qorgyle of Sandstone",
-        "region": "Dorne"
-    },
-    {
-        "name": "Quagg",
-        "region": "North (Crannogmen)"
-    },
-    {
-        "name": "Rambton",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Redbeard",
-        "region": "North"
-    },
-    {
-        "name": "Redding",
-        "region": "Reach"
-    },
-    {
-        "name": "Redfort of Redfort",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Redwyne of the Arbor",
-        "region": "Reach"
-    },
-    {
-        "name": "Reed of Greywater Watch",
-        "region": "North (Crannogmen)"
-    },
-    {
-        "name": "Reyne of Castamere",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Rhysling",
-        "region": "Reach"
-    },
-    {
-        "name": "Risley of Risley Glade",
-        "region": "Reach"
-    },
-    {
-        "name": "Rogers of Amberly",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Rollingford",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Roote of Lord Harroway's Town",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Rosby of Rosby",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Rowan of Goldengrove",
-        "region": "Reach"
-    },
-    {
-        "name": "Roxton of the Ring",
-        "region": "Reach"
-    },
-    {
-        "name": "Royce of Runestone",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Royce of the Gates of the Moon",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Ruskyn",
-        "region": "Unknown"
-    },
-    {
-        "name": "Ruthermont",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Ruttiger",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Ryder of the Rills",
-        "region": "North"
-    },
-    {
-        "name": "Ryger of Willow Wood",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Rykker of Duskendale",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Ryswell of the Rills",
-        "region": "North"
-    },
-    {
-        "name": "Saltcliffe of Saltcliffe",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Santagar of Spottswood",
-        "region": "Dorne"
-    },
-    {
-        "name": "Sarsfield of Sarsfield",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Sawyer",
-        "region": "Unknown"
-    },
-    {
-        "name": "Seaworth of Cape Wrath",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Selmy of Harvest Hall",
-        "region": "Stormlands (Marcher Lords)"
-    },
-    {
-        "name": "Serrett of Silverhill",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Serry of Southshield",
-        "region": "Reach (Shield Islands)"
-    },
-    {
-        "name": "Sharp",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Shawney",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Shell",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Shell",
-        "region": "Dorne"
-    },
-    {
-        "name": "Shepherd",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Shermer of Smithyton",
-        "region": "Reach"
-    },
-    {
-        "name": "Shett of Gull Tower",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Shett of Gulltown",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Slate of Blackpool",
-        "region": "North"
-    },
-    {
-        "name": "Sloane",
-        "region": "Reach"
-    },
-    {
-        "name": "Slynt of Harrenhal",
-        "region": "Crownlands (origin); Riverlands (deposed)"
-    },
-    {
-        "name": "Smallwood of Acorn Hall",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Sparr of Great Wyk",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Spicer of Castamere",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Stackhouse",
-        "region": "Reach"
-    },
-    {
-        "name": "Stackspear",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Staedmon of Broad Arch",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Stane of Driftwood Hall",
-        "region": "North (Skagosi Clans)"
-    },
-    {
-        "name": "Stark of Winterfell",
-        "region": "North"
-    },
-    {
-        "name": "Staunton of Rook's Rest",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Stokeworth of Stokeworth",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Stonehouse of Old Wyk",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Stonetree of Harlaw",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Stout of Goldgrass",
-        "region": "North"
-    },
-    {
-        "name": "Strickland",
-        "region": "Unknown"
-    },
-    {
-        "name": "Strong of Harrenhal",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Suggs",
-        "region": "Unknown"
-    },
-    {
-        "name": "Sunderland of the Three Sisters",
-        "region": "Vale of Arryn (Sistermen)"
-    },
-    {
-        "name": "Sunderly of Saltcliffe",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Sunglass of Sweetport Sound",
-        "region": "Crownlands (Dragonstone)"
-    },
-    {
-        "name": "Swann of Stonehelm",
-        "region": "Stormlands (Marcher Lords)"
-    },
-    {
-        "name": "Swyft of Cornfield",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Swygert",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Tallhart of Torrhen's Square",
-        "region": "North"
-    },
-    {
-        "name": "Tarbeck of Tarbeck Hall",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Targaryen of King's Landing",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Tarly of Horn Hill",
-        "region": "Reach"
-    },
-    {
-        "name": "Tarth of Evenfall Hall",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Tawney of Orkmont",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Teague",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Templeton of Ninestars",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Terrick",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Thenn",
-        "region": "North"
-    },
-    {
-        "name": "Thorne",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Toland of Ghost Hill",
-        "region": "Dorne"
-    },
-    {
-        "name": "Tollett of the Grey Glen",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Torrent of Littlesister",
-        "region": "Vale of Arryn (Sistermen)"
-    },
-    {
-        "name": "Towers",
-        "region": "North"
-    },
-    {
-        "name": "Towers of Harrenhal",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Toyne",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Trant of Gallowsgrey",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Tudbury",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Tully of Riverrun",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Turnberry",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Tyrell of Brightwater Keep",
-        "region": "Reach"
-    },
-    {
-        "name": "Tyrell of Highgarden",
-        "region": "Reach"
-    },
-    {
-        "name": "Uffering",
-        "region": "Reach"
-    },
-    {
-        "name": "Uller of the Hellholt",
-        "region": "Dorne"
-    },
-    {
-        "name": "Umber of the Last Hearth",
-        "region": "North"
-    },
-    {
-        "name": "Upcliff of the Witch Isle",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Vaith of the Red Dunes",
-        "region": "Dorne"
-    },
-    {
-        "name": "Vance of Atranta",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Vance of Wayfarer's Rest",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Varner",
-        "region": "Reach"
-    },
-    {
-        "name": "Velaryon of Driftmark",
-        "region": "Crownlands (Dragonstone)"
-    },
-    {
-        "name": "Vikary",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Volmark of Volmark",
-        "region": "Iron Islands (Shield Islands)"
-    },
-    {
-        "name": "Vypren",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Vyrwel of Darkdell",
-        "region": "Reach"
-    },
-    {
-        "name": "Wade",
-        "region": "Dorne"
-    },
-    {
-        "name": "Wagstaff",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Warrick",
-        "region": "Unknown"
-    },
-    {
-        "name": "Waterman",
-        "region": "North"
-    },
-    {
-        "name": "Waxley of Wickenden",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Wayn",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Waynwood of Ironoaks",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Weatherwax",
-        "region": "Unknown"
-    },
-    {
-        "name": "Weaver",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Webber of Coldmoat",
-        "region": "Reach"
-    },
-    {
-        "name": "Wells",
-        "region": "Dorne"
-    },
-    {
-        "name": "Wells",
-        "region": "North"
-    },
-    {
-        "name": "Wendwater",
-        "region": "Crownlands"
-    },
-    {
-        "name": "Wensington",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Westbrook",
-        "region": "Reach"
-    },
-    {
-        "name": "Westerling of the Crag",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Whitfield",
-        "region": "Unknown"
-    },
-    {
-        "name": "Whent of Harrenhal",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Whitehead of the Weeping Town",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Whitehill of Highpoint",
-        "region": "North"
-    },
-    {
-        "name": "Willum",
-        "region": "Reach"
-    },
-    {
-        "name": "Wode",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Woodfoot of Bear Island",
-        "region": "North"
-    },
-    {
-        "name": "Woodhull",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Woods",
-        "region": "North (Wolfswood Clans)"
-    },
-    {
-        "name": "Woodwright",
-        "region": "Reach"
-    },
-    {
-        "name": "Woolfield",
-        "region": "North"
-    },
-    {
-        "name": "Wull",
-        "region": "North (Mountain Clans)"
-    },
-    {
-        "name": "Wydman",
-        "region": "Vale of Arryn"
-    },
-    {
-        "name": "Wyl of the Boneway",
-        "region": "Dorne"
-    },
-    {
-        "name": "Wylde of Rain House",
-        "region": "Stormlands"
-    },
-    {
-        "name": "Wynch of Iron Holt",
-        "region": "Iron Islands"
-    },
-    {
-        "name": "Wythers",
-        "region": "Reach"
-    },
-    {
-        "name": "Yarwyck",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Yelshire",
-        "region": "Reach"
-    },
-    {
-        "name": "Yew",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Yronwood of Yronwood",
-        "region": "Dorne"
-    },
-    {
-        "name": "Branfield",
-        "region": "Unknown"
-    },
-    {
-        "name": "Forrester of Ironrath",
-        "region": "North (Wolfswood Clans)"
-    },
-    {
-        "name": "Glenmore of Rillwater Crossing",
-        "region": "North"
-    },
-    {
-        "name": "Tuttle",
-        "region": "North"
-    },
-    {
-        "name": "Whitehill",
-        "region": "North"
-    },
-    {
-        "name": "Harlton of Castlewood",
-        "region": "Riverlands"
-    },
-    {
-        "name": "Sarwyck of Riverspring",
-        "region": "Westerlands"
-    },
-    {
-        "name": "Westford",
-        "region": "Westerlands"
+        "name": "Stark",
+        "characters": [
+            "Arya Stark",
+            "Benjen Stark",
+            "Bran Stark",
+            "Catelyn Stark",
+            "Eddard Stark",
+            "Ghost",
+            "Grey Wind",
+            "Jon Snow",
+            "Lady",
+            "Nymeria",
+            "Rickon Stark",
+            "Robb Stark",
+            "Sansa Stark",
+            "Shaggydog",
+            "Summer"
+        ],
+        "regions": [
+            "North"
+        ]
+    },
+    {
+        "name": "Targaryen",
+        "characters": [
+            "Daenerys Targaryen",
+            "Drogon",
+            "Rhaegal",
+            "Viserion",
+            "Viserys Targaryen"
+        ],
+        "regions": [
+            "Crownlands"
+        ]
+    },
+    {
+        "name": "Baratheon",
+        "characters": [
+            "Joffrey Baratheon",
+            "Myrcella Baratheon",
+            "Renly Baratheon",
+            "Robert Baratheon",
+            "Selyse Baratheon",
+            "Shireen Baratheon",
+            "Stannis Baratheon",
+            "Tommen Baratheon",
+            "Gendry"
+        ],
+        "regions": [
+            "Crownlands",
+            "Stormlands"
+        ]
+    },
+    {
+        "name": "Lannister",
+        "characters": [
+            "Cersei Lannister",
+            "Jaime Lannister",
+            "Kevan Lannister",
+            "Lancel Lannister",
+            "Tyrion Lannister",
+            "Tywin Lannister"
+        ],
+        "regions": [
+            "Westerlands",
+            "Riverlands"
+        ]
+    },
+    {
+        "name": "Night's Watch",
+        "characters": [
+            "Alliser Thorne",
+            "Eddison Tollett",
+            "Grenn",
+            "Jeor Mormont",
+            "Karl Tanner",
+            "Maester Aemon",
+            "Olly",
+            "Othell Yarwyck",
+            "Pypar",
+            "Qhorin Halfhand",
+            "Rast",
+            "Samwell Tarly",
+            "Yoren"
+        ],
+        "regions": []
+    },
+    {
+        "name": "Dothraki",
+        "characters": [
+            "Doreah",
+            "Irri",
+            "Khal Drogo",
+            "Rakharo",
+            "Qhono"
+        ],
+        "regions": []
+    },
+    {
+        "name": "Greyjoy",
+        "characters": [
+            "Balon Greyjoy",
+            "Euron Greyjoy",
+            "Theon Greyjoy",
+            "Yara Greyjoy"
+        ],
+        "regions": [
+            "Iron Islands"
+        ]
+    },
+    {
+        "name": "Tyrell",
+        "characters": [
+            "Loras Tyrell",
+            "Mace Tyrell",
+            "Margaery Tyrell",
+            "Olenna Tyrell"
+        ],
+        "regions": [
+            "Reach"
+        ]
+    },
+    {
+        "name": "Wildlings",
+        "characters": [
+            "Baby Sam",
+            "Craster",
+            "Gilly",
+            "Mag the Mighty",
+            "Mance Rayder",
+            "Osha",
+            "Rattleshirt",
+            "Thenn Warg",
+            "Tormund Giantsbane",
+            "Wun Wun",
+            "Ygritte"
+        ],
+        "regions": []
+    },
+    {
+        "name": "Martell",
+        "characters": [
+            "Doran Martell",
+            "Ellaria Sand",
+            "Nymeria Sand",
+            "Obara Sand",
+            "Oberyn Martell",
+            "Trystane Martell",
+            "Tyene Sand"
+        ],
+        "regions": [
+            "Dorne"
+        ]
+    },
+    {
+        "name": "Frey",
+        "characters": [
+            "Black Walder Rivers",
+            "Lothar Frey",
+            "Walder Frey"
+        ],
+        "regions": [
+            "Riverlands"
+        ]
+    },
+    {
+        "name": "Tully",
+        "characters": [
+            "Brynden Tully",
+            "Edmure Tully"
+        ],
+        "regions": [
+            "Riverlands"
+        ]
+    },
+    {
+        "name": "White Walkers",
+        "characters": [
+            "Mag the Mighty Wight",
+            "The Night King",
+            "White Walker",
+            "Wight Wildling Girl",
+            "Wun Wun Wight"
+        ],
+        "regions": []
+    },
+    {
+        "name": "Include",
+        "characters": [
+            "Archmaester Ebrose",
+            "Barristan Selmy",
+            "Beric Dondarrion",
+            "Brienne of Tarth",
+            "Bronn",
+            "Daario Naharis",
+            "Davos Seaworth",
+            "Gendry",
+            "Grand Maester Pycelle",
+            "Greatjon Umber",
+            "Gregor Clegane",
+            "Greizhen mo Ullhor",
+            "Grey Worm",
+            "Hallyne",
+            "High Sparrow",
+            "Hizdahr zo Loraq",
+            "Hodor",
+            "Hot Pie",
+            "Janos Slynt",
+            "Jaqen H'ghar",
+            "Jojen Reed",
+            "Jorah Mormont",
+            "Jory Cassel",
+            "Kraznys mo Nakloz",
+            "Lady Crane",
+            "Leaf",
+            "Locke",
+            "Lommy Greenhands",
+            "Lord Varys",
+            "Lyanna Mormont",
+            "Lysa Arryn",
+            "Maester Luwin",
+            "Matthos Seaworth",
+            "Meera Reed",
+            "Melisandre",
+            "Mirri Maz Duur",
+            "Missandei",
+            "Olyvar",
+            "Petyr Baelish",
+            "Podrick Payne",
+            "Prendahl na Ghezn",
+            "Pyat Pree",
+            "Qyburn",
+            "Ramsay Snow",
+            "Razdal mo Eraz",
+            "Rickard Karstark",
+            "Robin Arryn",
+            "Rodrik Cassel",
+            "Roose Bolton",
+            "Ros",
+            "Salladhor Saan",
+            "Sandor Clegane",
+            "Septa Mordane",
+            "Septa Unella",
+            "Shae",
+            "Silk King",
+            "Smalljon Umber",
+            "Syrio Forel",
+            "Talisa Maegyr",
+            "The Waif",
+            "Thoros of Myr",
+            "Three-Eyed Raven",
+            "Xaro Xhoan Daxos",
+            "Yezzan zo Qaggaz",
+            "Yohn Royce"
+        ],
+        "regions": []
     }
 ]
