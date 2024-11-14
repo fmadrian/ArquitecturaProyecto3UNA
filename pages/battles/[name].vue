@@ -3,7 +3,7 @@
     <div class="container">
         <HeaderView />
         <div class="row py-3">
-            <div class="d-flex flex-column row-gap-3">
+            <div class="d-flex flex-column row-gap-3" v-if="item">
                 <h3>{{ item.name }} ({{ item.year }})</h3>
                 <h4>Información general</h4>
                 <table class="table table-responsive table-primary table-striped table-bordered">
@@ -207,8 +207,8 @@
                         </tr>
                     </tbody>
                 </table>
-
             </div>
+            <ArticleNotFound v-else itemType="Batalla" to="/battles" text="Batallas" />
         </div>
         <FooterView />
     </div>

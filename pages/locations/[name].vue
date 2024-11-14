@@ -3,8 +3,7 @@
     <div class="container">
         <HeaderView />
         <div class="row py-3">
-            <div class="d-flex flex-column row-gap-3">
-
+            <div class="d-flex flex-column row-gap-3" v-if="item">
                 <h3> {{ item.name }}</h3>
                 <h4>Subregiones</h4>
                 <table class="table table-responsive table-primary table-striped table-bordered"
@@ -22,6 +21,7 @@
                 </table>
                 <span class="fs-6" v-else>No hay subregiones</span>
             </div>
+            <ArticleNotFound v-else itemType="Región" to="/locations" text="Regiones" />
         </div>
         <FooterView />
     </div>

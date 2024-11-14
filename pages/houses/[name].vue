@@ -3,7 +3,7 @@
     <div class="container">
         <HeaderView />
         <div class="row py-3">
-            <div class="d-flex flex-column row-gap-3">
+            <div class="d-flex flex-column row-gap-3" v-if="item">
                 <h3> {{ item.name }}</h3>
                 <h4>Regiones</h4>
                 <table class="table table-responsive table-primary table-striped table-bordered"
@@ -53,6 +53,7 @@
                     No hay regiones.
                 </span>
             </div>
+            <ArticleNotFound v-else itemType="Casa" to="/houses" text="Casas" />
         </div>
         <FooterView />
     </div>
