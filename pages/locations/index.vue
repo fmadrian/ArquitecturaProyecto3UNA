@@ -5,6 +5,12 @@
         <div class="row py-3">
             <div class="d-flex flex-column row-gap-3">
                 <h3>Ubicaciones</h3>
+                <input
+                    v-model="searchQuery"
+                    type="text"
+                    placeholder="Buscar Ubicaciones..."
+                    class="form-control mb-3"
+                />
                 <table class="table table-responsive table-primary table-striped table-bordered">
                     <thead>
                         <tr>
@@ -12,7 +18,7 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <tr v-for="(item, index) in items" :key="index">
+                        <tr v-for="(item, index) in filteredItems" :key="index">
                             <td>
                                 <NuxtLink
                                     :to="{ name: 'locations-name', params: { name: encodeURIComponent(item.name) } }"
@@ -30,4 +36,13 @@
 </template>
 <script setup>
 const items = (await queryContent('/locations').only('body').findOne()).body;
+// Barra de búsqueda
+const searchQuery = ref('');
+
+//Filtro de búsqueda
+const filteredItems = computed(() => {
+    return items.filter(item =>
+        item.name.toLowerCase().includes(searchQuery.value.toLowerCase())
+    );
+});
 </script>

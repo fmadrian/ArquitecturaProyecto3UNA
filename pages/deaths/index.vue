@@ -4,7 +4,13 @@
         <HeaderView />
         <div class="row py-3">
             <div class="d-flex flex-column row-gap-3">
-                <h3>Batallas</h3>
+                <h3>Muertes</h3>
+                <input
+                    v-model="searchQuery"
+                    type="text"
+                    placeholder="Buscar Muertes..."
+                    class="form-control mb-3"
+                />
                 <table class="table table-responsive table-primary table-striped table-sm">
                     <thead>
                         <tr class="align-middle">
@@ -15,7 +21,7 @@
                         </tr>
                     </thead>
                     <tbody class="table-group-divider">
-                        <tr v-for="(item, index) in items" :key="index">
+                        <tr v-for="(item, index) in filteredItems" :key="index">
                             <td>
                                 <NuxtLink :to="{ name: 'deaths-name', params: { name: encodeURIComponent(item.name) } }"
                                     class="text-primary text-decoration-none">
@@ -54,4 +60,13 @@
 </template>
 <script setup>
 const items = (await queryContent('/deaths').only('body').findOne()).body;
+// Barra de búsqueda
+const searchQuery = ref('');
+
+//Filtro de búsqueda
+const filteredItems = computed(() => {
+    return items.filter(item =>
+        item.name.toLowerCase().includes(searchQuery.value.toLowerCase())
+    );
+});
 </script>
