@@ -4,63 +4,72 @@
         "star": "Peter Dinklage",
         "episodes_appeared": 67,
         "first_appearance": 2011,
-        "last_appearance": 2019
+        "last_appearance": 2019,
+        "img":"https://i0.wp.com/www.thewrap.com/wp-content/uploads/2016/04/tyrion-lannister.jpg?resize=618%2C412&ssl=1"
     },
     {
         "name": "Cersei Lannister",
         "star": "Lena Headey",
         "episodes_appeared": 62,
         "first_appearance": 2011,
-        "last_appearance": 2019
+        "last_appearance": 2019,
+        "img": "https://upload.wikimedia.org/wikipedia/en/2/22/Cersei_Lannister_in_Black_Dress_in_Season_5.jpg"
     },
     {
         "name": "Daenerys Targaryen",
         "star": "Emilia Clarke",
         "episodes_appeared": 62,
         "first_appearance": 2011,
-        "last_appearance": 2019
+        "last_appearance": 2019,
+        "img": "https://www.telegraph.co.uk/content/dam/fashion/2017/06/19/TELEMMGLPICT000131421802_trans_NvBQzQNjv4BqkUE_BTgBOQu3VWKvpDGX9fr7sARQy7EgBjwPUzvqL_M.jpeg?imwidth=680"
     },
     {
         "name": "Jon Snow",
         "star": "Kit Harington",
         "episodes_appeared": 62,
         "first_appearance": 2011,
-        "last_appearance": 2019
+        "last_appearance": 2019,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF_sxmR-U7BT-2ZeW2oTs3b2OwRVi3-3rQuQ&s"
     },
     {
         "name": "Sansa Stark",
         "star": "Sophie Turner",
         "episodes_appeared": 59,
         "first_appearance": 2011,
-        "last_appearance": 2019
+        "last_appearance": 2019,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT--VSYNZ7UkZsnG_s7CMMNJpoPOZKGyjV04Q&s"
     },
     {
         "name": "Arya Stark",
         "star": "Maisie Williams",
         "episodes_appeared": 59,
         "first_appearance": 2011,
-        "last_appearance": 2019
+        "last_appearance": 2019,
+        "img": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2019/06/06130622/arya-stark.jpeg"
     },
     {
         "name": "Jaime Lannister",
         "star": "Nikolaj Coster-Waldau",
         "episodes_appeared": 55,
         "first_appearance": 2011,
-        "last_appearance": 2019
+        "last_appearance": 2019,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHU6FuczOvA17jLyOOyn5DDuVdh27EDRekTw&s"
     },
     {
         "name": "Jorah Mormont",
         "star": "Iain Glen",
         "episodes_appeared": 52,
         "first_appearance": 2011,
-        "last_appearance": 2019
+        "last_appearance": 2019,
+        "img": "https://i.namu.wiki/i/8IEq70ajaWUGc60r6P7ng5uAwbb_v9R7VehF_4rUvHx67-8qJnHC3nJioJ4CJ96_hB9HdRxoBpmhCKrZuCTLKA.webp"
     },
     {
         "name": "Samwell Tarly",
         "star": "John Bradley",
         "episodes_appeared": 48,
         "first_appearance": 2011,
-        "last_appearance": 2019
+        "last_appearance": 2019,
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2019/02/game_of_thrones-publicity_still_9-h_2019.jpg"
     },
     {
         "name": "Theon Greyjoy",

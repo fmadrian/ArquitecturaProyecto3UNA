@@ -5,6 +5,7 @@
         <div class="row py-3">
             <div class="d-flex flex-column row-gap-3" v-if="item">
                 <h3> {{ item.alias ? `${item.alias}/` : '' }}{{ item.name }}</h3>
+                <img v-if="item.img" :src="item.img" :alt="'Imagen de ' + item.name"  class="max-size"/>
                 <h4>Información general</h4>
                 <table class="table table-responsive table-primary table-striped table-bordered">
                     <tbody>
@@ -61,3 +62,10 @@ const currentIndex = items.indexOf(item)
 const prev = currentIndex > 0 ? items[currentIndex - 1] : null
 const next = currentIndex < items.length - 1 ? items[currentIndex + 1] : null    
 </script>
+<style scoped>
+.max-size {
+  max-width: 300px;
+  max-height: 200px;
+  object-fit: contain;
+}
+</style>

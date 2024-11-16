@@ -18,7 +18,8 @@
 			"Destroyed Cabin",
 			"Near Nightfort",
 			"The Wall"
-		]
+		],
+		"img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/1/1f/The_wall.jpg?width=640"
 	},
 	{
 		"name": "Wall",
@@ -30,7 +31,8 @@
 			"Outside Castle Black",
 			"Mole's Town",
 			"The Gift"
-		]
+		],
+		"img": "https://api.time.com/wp-content/uploads/2017/08/game-of-thrones-the-wall-history-03.jpg"
 	},
 	{
 		"name": "North",
@@ -53,7 +55,8 @@
 	},
 	{
 		"name": "Shivering Sea",
-		"sublocations": []
+		"sublocations": [],
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkbov9C50UEoymD-2dLuJZDuPc_YpYKxATQ&s"
 	},
 	{
 		"name": "Vale",
@@ -67,14 +70,16 @@
 			"Inn",
 			"To The Vale",
 			"Coast of the Vale"
-		]
+		],
+		"img": "https://images.squarespace-cdn.com/content/v1/5e93f0382c15d54491e4cf9b/1602548019767-1OMNDITL4I3W04MM7A2M/Screen%2BShot%2B2020-10-13%2Bat%2B11.11.08.jpg"
 	},
 	{
 		"name": "Iron Islands",
 		"sublocations": [
 			"Pyke",
 			"Lordsport"
-		]
+		],
+		"img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/a/a4/Pyke-iron-islands-song-of-ice-and-fire.jpg"
 	},
 	{
 		"name": "Sunset Sea",
@@ -89,7 +94,8 @@
 			"Lannister Camp",
 			"Camp of the North",
 			"To King's Landing"
-		]
+		],
+		"img": "https://awoiaf.westeros.org/images/thumb/1/12/Sarah_Morris_The_WesterlandsII.png/300px-Sarah_Morris_The_WesterlandsII.png"
 	},
 	{
 		"name": "Riverlands",
@@ -131,7 +137,8 @@
 			"Outside King's Landing",
 			"The Kingswood",
 			"Blackwater Rush"
-		]
+		],
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShJU81MB5pZoPaReNjdKkpYi2in4lXVxCy8g&s"
 	},
 	{
 		"name": "Stormlands",
@@ -139,7 +146,8 @@
 			"Tarth",
 			"The Woods",
 			"Storm's End"
-		]
+		],
+		"img": "https://www.silverscreen.tours/wp-content/uploads/2018/10/16548-game-of-thrones-cushendun-caves-1200x675.jpg"
 	},
 	{
 		"name": "Reach",
@@ -148,69 +156,81 @@
 			"To Horn Hill",
 			"Horn Hill",
 			"Oldtown"
-		]
+		],
+		"img": "https://i.imgur.com/DSZ8uWb.jpg"
 	},
 	{
 		"name": "Dorne",
 		"sublocations": [
 			"Tower of Joy",
 			"The Water Gardens"
-		]
+		],
+		"img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/2/2e/Dorne_GoT.png"
 	},
 	{
 		"name": "Pentos",
 		"sublocations": [
 			"Pentos to Volantis"
-		]
+		],
+		"img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/e/ee/Pentos_GoT.png"
 	},
 	{
 		"name": "Braavos",
-		"sublocations": []
+		"sublocations": [],
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTllQMDpvGSip08UV0QM6ZzSCnn3kTy2b9ZMA&s"
 	},
 	{
 		"name": "Summer Sea",
-		"sublocations": []
+		"sublocations": [],
+		"img": "https://static.wikia.nocookie.net/gameofthrones/images/d/d5/H%26L_The_Summer_Sea.png/revision/latest?cb=20161118185818"
 	},
 	{
 		"name": "Volantis",
 		"sublocations": [
 			"Volantis to Valyria"
-		]
+		],
+		"img": "https://static.wikia.nocookie.net/hieloyfuego/images/c/c1/Volantis_HBO.jpg/revision/latest?cb=20150427113329"
 	},
 	{
 		"name": "Valyria",
 		"sublocations": [
 			"Slaver's Bay"
-		]
+		],
+		"img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/d/da/Dragon_valyria.PNG"
 	},
 	{
 		"name": "Dothraki Sea",
 		"sublocations": [
 			"Dothraki Camp",
 			"Lhazareen Village"
-		]
+		],
+		"img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/a/a7/Dothraki_Sea.jpg"
 	},
 	{
 		"name": "Meereen",
 		"sublocations": [
 			"Outside Meereen"
-		]
+		],
+		"img": "https://static.wikia.nocookie.net/gameofthrones/images/8/89/Meereen.png/revision/latest?cb=20150328211743"
 	},
 	{
 		"name": "Yunkai",
 		"sublocations": [
 			"Outside Yunkai"
-		]
+		],
+		"img": "https://www.earthsmagicalplaces.com/wp-content/uploads/2019/02/Yanki.jpg"
 	},
 	{
 		"name": "Astapor",
 		"sublocations": [
 			"Slaver's Bay"
-		]
+		],
+		"img": "https://static.wikia.nocookie.net/gameofthrones/images/c/ca/Astapor_city_view.jpg/revision/latest?cb=20150328211103"
 	},
 	{
 		"name": "Vaes Dothrak",
-		"sublocations": []
+		"sublocations": [],
+		"img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/0/0d/Dothrakhorses.jpg"
 	},
 	{
 		"name": "Red Waste",
@@ -224,6 +244,7 @@
 			"King's Landing",
 			"The Wall",
 			"Vaes Dothrak"
-		]
+		],
+		"img": "https://croatia4travel.com/wp-content/uploads/2020/05/qarth-game-of-thrones-1280x720.jpg"
 	}
 ]
