@@ -20,6 +20,7 @@
                     </tbody>
                 </table>
                 <span class="fs-6" v-else>No hay subregiones</span>
+                <PrevNext :prev="prev" :next="next" basePath="locations" />
             </div>
             <ArticleNotFound v-else itemType="Región" to="/locations" text="Regiones" />
         </div>
@@ -27,9 +28,13 @@
     </div>
 </template>
 <script setup>
+import PrevNext from '~/components/PrevNext.vue'
 const route = useRoute()
 
-const item = (await queryContent('/locations').only('body').findOne()).body
-    .find(item => item.name.trim() === decodeURIComponent(route.params.name).trim())
+const items = (await queryContent('/locations').only('body').findOne()).body
+const item = items.find(item => item.name.trim() === decodeURIComponent(route.params.name).trim())
 
+const currentIndex = items.indexOf(item)
+const prev = currentIndex > 0 ? items[currentIndex - 1] : null
+const next = currentIndex < items.length - 1 ? items[currentIndex + 1] : null   
 </script>

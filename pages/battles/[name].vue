@@ -207,6 +207,8 @@
                         </tr>
                     </tbody>
                 </table>
+
+                <PrevNext :prev="prev" :next="next" basePath="battles" />
             </div>
             <ArticleNotFound v-else itemType="Batalla" to="/battles" text="Batallas" />
         </div>
@@ -214,9 +216,15 @@
     </div>
 </template>
 <script setup>
+import PrevNext from '~/components/PrevNext.vue'
 const route = useRoute()
 
-const item = (await queryContent('/battles').only('body').findOne()).body
-    .find(item => item.name.trim() === decodeURIComponent(route.params.name).trim())
+const items = (await queryContent('/battles').only('body').findOne()).body;
+
+const item = items.find(item => item.name.trim() === decodeURIComponent(route.params.name).trim())
+
+const currentIndex = items.indexOf(item)
+const prev = currentIndex > 0 ? items[currentIndex - 1] : null
+const next = currentIndex < items.length - 1 ? items[currentIndex + 1] : null
 
 </script>
